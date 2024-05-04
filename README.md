@@ -1,4 +1,4 @@
-# Linearity
+# Linearity
 
 Minimal 2D vector space interfaces.
 
